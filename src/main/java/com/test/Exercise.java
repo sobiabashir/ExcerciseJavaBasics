@@ -19,7 +19,7 @@ public class Exercise {
         int sum = num1 + num2;
         int difference = num1 - num2;
         int product = num1 * num2;
-        int quotient =  num1 / num2; // Need to cast to double for correct division
+        int quotient =  num1 / num2; 
 
         // Print results
         System.out.println("Sum: " + sum);
